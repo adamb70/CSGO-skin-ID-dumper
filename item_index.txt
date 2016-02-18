@@ -437,3 +437,19 @@
 521: Teclu Burner
 522: Fade
 523: Amber Fade
+524: Fuel Injector
+525: Elite Build
+526: Photic Zone
+527: Kumicho Dragon
+528: Cartel
+529: Valence
+530: Triumvirate
+532: Royal Legion
+533: The Battlestar
+534: Lapis Gator
+535: Praetorian
+536: Impire
+537: Hyper Beast
+538: Necropos
+539: Jambiya
+540: Lead Conduit
