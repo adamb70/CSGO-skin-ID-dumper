@@ -18,7 +18,6 @@ with open(os.path.join(SteamPath, 'csgo/scripts/items/items_game.txt'), 'r') as 
             tempdata = {}
 
             if re.match(r'^"\d*"$', line.strip()):
-                print line.strip()
                 currnum = int(line.strip().replace('"', ''))
                 skindata[currnum] = {}
                 number = True
