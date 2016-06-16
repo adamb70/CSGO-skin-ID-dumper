@@ -453,3 +453,62 @@
 538: Necropos
 539: Jambiya
 540: Lead Conduit
+541: Fleet Flock
+542: Judgement of Anubis
+543: Red Astor
+544: Ventilators
+545: Orange Crash
+546: Firefight
+547: Spectre
+548: Chantico's Fire
+549: Bioleak
+550: Oceanic
+551: Asiimov
+552: Fubar
+553: Atlas
+554: Ghost Crusader
+555: Re-Entry
+556: Primal Saber
+557: Black Tie
+558: Lore
+559: Lore
+560: Lore
+561: Lore
+562: Lore
+563: Black Laminate
+564: Black Laminate
+565: Black Laminate
+566: Black Laminate
+567: Black Laminate
+568: Gamma Doppler Emerald Marble
+569: Gamma Doppler Phase 1
+570: Gamma Doppler Phase 2
+571: Gamma Doppler Phase 3
+572: Gamma Doppler Phase 4
+573: Autotronic
+574: Autotronic
+575: Autotronic
+576: Autotronic
+577: Autotronic
+578: Bright Water
+579: Bright Water
+580: Freehand
+581: Freehand
+582: Freehand
+583: Aristocrat
+584: Phobos
+585: Violent Daimyo
+586: Wasteland Rebel
+587: Mecha Industries
+588: Desolate Space
+589: Carnivore
+590: Exo
+591: Imperial Dragon
+592: Iron Clad
+593: Chopper
+594: Harvester
+595: Reboot
+596: Limelight
+597: Bloodsport
+598: Aerial
+599: Ice Cap
