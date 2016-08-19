@@ -512,3 +512,20 @@
 597: Bloodsport
 598: Aerial
 599: Ice Cap
+600: Neon Revolution
+601: Syd Mead
+602: Imprint
+603: Directive
+604: Roll Cage
+605: Scumbria
+606: Ventilator
+607: Weasel
+608: Petroglyph
+609: Airlock
+610: Dazzle
+611: Grim
+612: Powercore
+613: Triarch
+614: Fuel Injector
+615: Briefing
+616: Slipstream
