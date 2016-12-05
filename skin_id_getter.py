@@ -35,8 +35,11 @@ with open(os.path.join(SteamPath, 'csgo/scripts/items/items_game.txt'), 'r') as 
                 continue
 
             if currnum and not number:
-                first, second = line.strip().replace('"','').split('\t\t')
-                skindata[currnum][first] = second
+                try:
+                    first, second = line.strip().replace('"', '').split('\t\t')
+                    skindata[currnum][first] = second
+                except ValueError:
+                    pass
 
         if line.strip() == '"paint_kits"':
             start = True
