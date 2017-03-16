@@ -529,6 +529,11 @@
 614: Fuel Injector
 615: Briefing
 616: Slipstream
+617: Doppler
+618: Doppler
+619: Doppler
+620: Ultraviolet
+621: Ultraviolet
 622: Polymer
 623: Ironwork
 624: Dragonfire
@@ -546,6 +551,23 @@
 636: Shallow Grave
 637: Cyrex
 638: Wasteland Princess
+639: Bloodsport
+640: Fever Dream
+641: Jungle Slipstream
+642: Blueprint
+643: Xiangliu
+644: Decimator
+645: Oxide Blaze
+646: Capillary
+647: Crimson Tsunami
+648: Emerald Poison Dart
+649: Akoben
+650: Ripple
+651: Last Dive
+652: Scaffold
+653: Neo-Noir
+654: Seasons
+655: Zander
 10006: Charred
 10007: Snakebite
 10008: Bronzed
