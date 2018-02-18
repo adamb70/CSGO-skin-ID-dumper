@@ -568,6 +568,57 @@
 653: Neo-Noir
 654: Seasons
 655: Zander
+656: Orbit Mk01
+657: Blueprint
+658: Cobra Strike
+659: Macabre
+660: Hyper Beast
+661: Sugar Rush
+662: Oni Taiji
+663: Briefing
+664: Hellfire
+665: Aloha
+666: Hard Water
+667: Woodsman
+668: Red Rock
+669: Death Grip
+670: Death's Head
+671: Cut Out
+672: Metal Flowers
+673: Morris
+674: Triqua
+675: The Empress
+676: High Roller
+677: Hunter
+678: See Ya Later
+679: Goo
+680: Off World
+681: Leaded Glass
+682: Oceanic
+683: Llama Cannon
+684: Cracked Opal
+685: Jungle Slipstream
+686: Phantom
+687: Tacticat
+688: Exposure
+689: Ziggy
+690: Stymphalian
+691: Mortis
+692: Night Riot
+693: Flame Test
+694: Moonrise
+695: Neo-Noir
+696: Bloodsport
+697: Black Sand
+698: Lionfish
+699: Wild Six
+700: Urban Hazard
+701: Grip
+702: Aloha
+703: SWAG-7
+704: Arctic Wolf
+705: Cortex
+706: Oxide Blaze
 10006: Charred
 10007: Snakebite
 10008: Bronzed
@@ -592,3 +643,27 @@
 10038: Hedge Maze
 10039: Guerrilla
 10040: Diamondback
+10041: King Snake
+10042: Imperial Plaid
+10043: Overtake
+10044: Racing Green
+10045: Amphibious
+10046: Bronze Morph
+10047: Omega
+10048: Vice
+10049: POW!
+10050: Turtle
+10051: Transport
+10052: Polygon
+10053: Cobalt Skulls
+10054: Overprint
+10055: Duct Tape
+10056: Arboreal
+10057: Emerald
+10058: Mangrove
+10059: Rattler
+10060: Case Hardened
+10061: Crimson Web
+10062: Buckshot
+10063: Fade
+10064: Mogul
