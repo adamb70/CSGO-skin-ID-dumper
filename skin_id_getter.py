@@ -48,7 +48,6 @@ with open(os.path.join(SteamPath, 'csgo/scripts/items/items_game.txt'), 'r') as 
     skindata.pop(9001)
 
 
-
 namedata = {}
 with io.open(os.path.join(SteamPath, 'csgo/resource/csgo_english.txt'), 'r', encoding='utf-16-le') as languagefile:
     # Steam language files are encoded in utf-16LE
@@ -71,9 +70,8 @@ with io.open(os.path.join(SteamPath, 'csgo/resource/csgo_english.txt'), 'r', enc
         if line.strip() == '// Paint Kits':
             start = True
 
-
-with open('item_index.txt', 'w') as outfile:
-    for n in skindata:
+with io.open('item_index.txt', 'w', encoding="utf-8") as outfile:
+    for n in sorted(skindata):
         tag = skindata[n]['description_tag']
 
-        outfile.write("%s: %s\n" % (n, namedata[tag.lower()].encode('utf-8')))
+        outfile.write("%s: %s\n" % (n, namedata[tag.lower()]))
