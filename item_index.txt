@@ -689,6 +689,30 @@
 815: Danger Close
 816: Fubar
 817: Flashback
+835: Crypsis
+836: Uncharted
+837: Angry Mob
+838: Atheris
+839: Bamboozle
+840: Whitefish
+841: Light Rail
+842: Akoben
+843: Skull Crusher
+844: The Emperor
+845: Momentum
+846: Gauss
+847: Mischief
+848: Verdigris
+849: Off World
+850: Incinegator
+851: Moonrise
+852: Doppler
+853: Doppler
+854: Doppler
+855: Doppler
+856: Marble Fade
+857: Damascus Steel
+858: Damascus Steel
 10006: Charred
 10007: Snakebite
 10008: Bronzed
