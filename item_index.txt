@@ -637,7 +637,29 @@
 721: Survivalist
 722: Snek-9
 723: Eye of Athena
+724: Wild Lotus
+725: Day Lily
+726: Sunset Lily
+727: Midnight Lily
+728: Teal Blossom
+729: Crimson Blossom
+730: Dark Blossom
+731: Banana Leaf
+732: Synth Leaf
+733: Rust Leaf
+734: Wild Lily
 735: Night Stripe
+736: The Prince
+737: Cinquedea
+738: Orange Murano
+739: Violet Murano
+740: Navy Murano
+741: Dark Filigree
+742: Red Filigree
+743: Orange Filigree
+744: Baroque Red
+745: Baroque Purple
+746: Baroque Orange
 747: Twin Turbo
 748: Calf Skin
 749: Vino Primo
@@ -647,6 +669,14 @@
 753: Dirt Drop
 754: Rust Coat
 755: Slide
+756: Gungnir
+757: Emerald Jörmungandr
+758: Flame Jörmungandr
+759: Astral Jörmungandr
+760: Frost Borre
+761: Copper Borre
+762: Red Stone
+763: Mjölnir
 775: Facility Sketch
 776: Facility Negative
 777: Facility Draft
@@ -714,6 +744,56 @@
 856: Marble Fade
 857: Damascus Steel
 858: Damascus Steel
+859: Emerald Quartz
+860: Pyre
+861: Barricade
+862: Moss Quartz
+863: Night Borre
+864: Candy Apple
+865: Stone Mosaico
+866: Canal Spray
+867: Stained Glass
+868: Sea Calico
+869: Sundown
+870: Jungle Thicket
+871: Surfwood
+872: Bamboo Garden
+873: Seabird
+884: Embargo
+885: Rat Rod
+886: Arctic Wolf
+887: Containment Breach
+888: Acid Wash
+889: Decimator
+890: Plume
+891: Black Sand
+892: Memento
+893: Neon Ply
+894: Obsidian
+895: Balance
+896: Torn
+897: Colony IV
+898: Stalker
+899: Bloodshot
+900: Warbird
+902: Aztec
+903: Elite 1.6
+904: Decommissioned
+905: Flash Out
+906: Buddy
+907: Inferno
+908: Classic Crate
+909: Popdog
+910: Hydra
+911: Nostalgia
+913: Death by Puppy
+914: Assault
+915: Agent
+916: Plastique
+917: Wildfire
+918: Sacrifice
+919: Commemoration
+920: Boroque Sand
 10006: Charred
 10007: Snakebite
 10008: Bronzed
