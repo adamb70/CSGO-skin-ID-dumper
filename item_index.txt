@@ -794,6 +794,40 @@
 918: Sacrifice
 919: Commemoration
 920: Boroque Sand
+941: Phantom Disruptor
+942: Tom Cat
+943: Capillary
+944: Distressed
+945: Blue Ply
+946: Player Two
+947: Disco Tech
+948: Justice
+949: Desert Strike
+950: Prototype
+951: Acid Etched
+952: Bone Forged
+953: Apocalypto
+954: Enforcer
+955: Darkwing
+956: Fever Dream
+957: Bullet Queen
+958: Ultralight
+959: Legion of Anubis
+960: Gnarled
+961: Monster Call
+962: Printstream
+963: Vogue
+964: Brother
+965: Allure
+966: Ol' Rusty
+967: Mainframe 001
+968: Cassette
+969: Freight
+970: Entombed
+971: Tooth Fairy
+972: Connexion
+973: Runic
+974: Kitbash
 10006: Charred
 10007: Snakebite
 10008: Bronzed
