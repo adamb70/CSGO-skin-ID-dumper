@@ -828,6 +828,66 @@
 972: Connexion
 973: Runic
 974: Kitbash
+975: Exoskeleton
+976: Vendetta
+977: Cocoa Rampage
+978: Dezastre
+979: Fairy Tale
+980: Digital Mesh
+981: Vandal
+982: Contaminant
+983: Deep Relief
+984: Printstream
+985: Cyber Security
+986: Condition Zero
+987: Clear Polymer
+988: Neo-Noir
+989: Parallax
+990: Gold Bismuth
+991: Monster Mashup
+992: The Bronze
+993: Global Offensive
+994: Charter
+995: Surveillance
+996: Threat Detected
+997: Dispatch
+998: Switch Board
+999: Prime Conspiracy
+1000: Run and Hide
+1001: Welcome to the Jungle
+1002: Berries And Cherries
+1003: Crime Scene
+1004: X-Ray
+1005: Heist
+1006: Night Heist
+1007: Vault Heist
+1008: Houndstooth
+1009: Hot Snakes
+1010: Phoenix Chalk
+1011: Phoenix Marker
+1012: Phoenix Stencil
+1013: Phoenix Blacklight
+1014: Clay Ambush
+1015: Tiger Pit
+1016: Franklin
+1017: Blue Phosphor
+1018: Panthera onca
+1019: Panther Camo
+1020: Ancient Earth
+1021: Ancient Lore
+1022: Lush Ruins
+1023: Tall Grass
+1024: Blast From the Past
+1025: Gold Brick
+1026: Fade
+1027: Target Acquired
+1028: Magna Carta
+1029: Silk Tiger
+1030: Bengal Tiger
+1031: Ancient Visions
+1032: Dusk Ruins
+1033: Carved Jade
+1034: Ancient Ritual
 10006: Charred
 10007: Snakebite
 10008: Bronzed
@@ -876,3 +936,27 @@
 10062: Buckshot
 10063: Fade
 10064: Mogul
+10065: Marble Fade
+10066: Lt. Commander
+10067: Tiger Strike
+10068: Field Agent
+10069: Rezan the Red
+10070: Snow Leopard
+10071: Queen Jaguar
+10072: Black Tie
+10073: Slingshot
+10074: Big Game
+10075: Scarlet Shamagh
+10076: Nocts
+10077: Finish Line
+10078: Smoke Out
+10079: Blood Pressure
+10080: 3rd Commando Company
+10081: Desert Shamagh
+10082: Giraffe
+10083: Constrictor
+10084: CAUTION!
+10085: Jade
+10086: Yellow-banded
+10087: Needle Point
+10088: Unhinged
