@@ -677,6 +677,8 @@
 761: Copper Borre
 762: Red Stone
 763: Mjölnir
+764: Fennec Fox
+765: Desert Blossom
 775: Facility Sketch
 776: Facility Negative
 777: Facility Draft
@@ -720,6 +722,18 @@
 815: Danger Close
 816: Fubar
 817: Flashback
+818: Purple DDPAT
+819: Desert Hydra
+820: Music Box
+821: Elegant Vines
+822: Navy Sheen
+823: Sand Storm
+824: Drift Wood
+825: Drought
+826: Sienna Damask
+827: Humidor
+828: Verdant Growth
+829: Anolis
 835: Crypsis
 836: Uncharted
 837: Angry Mob
@@ -798,6 +812,7 @@
 920: Boroque Sand
 921: Gold Arabesque
 922: Orange Anolis
+923: Oxide Oasis
 924: Desert Brush
 925: Desert DDPAT
 926: Red DDPAT
