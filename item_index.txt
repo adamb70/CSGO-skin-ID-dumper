@@ -759,6 +759,8 @@
 871: Surfwood
 872: Bamboo Garden
 873: Seabird
+879: Fade
+880: Parched
 884: Embargo
 885: Rat Rod
 886: Arctic Wolf
@@ -794,6 +796,20 @@
 918: Sacrifice
 919: Commemoration
 920: Boroque Sand
+921: Gold Arabesque
+922: Orange Anolis
+924: Desert Brush
+925: Desert DDPAT
+926: Red DDPAT
+927: Spalted Wood
+928: Black & Tan
+929: Quick Sand
+930: New Roots
+931: Old Roots
+932: Withered Vine
+933: Midnight Palm
+934: Bleached
+935: Prey
 941: Phantom Disruptor
 942: Tom Cat
 943: Capillary
@@ -888,6 +904,7 @@
 1032: Dusk Ruins
 1033: Carved Jade
 1034: Ancient Ritual
+1052: Death Strike
 1066: Faulty Wiring
 1070: Green Laminate
 1071: CAUTION!
