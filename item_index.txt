@@ -983,6 +983,21 @@
 1101: Turbo Peek
 1102: Black Lotus
 1103: Watchdog
+1104: Lore
+1105: Lore
+1106: Lore
+1107: Lore
+1108: Lore
+1109: Black Laminate
+1110: Black Laminate
+1111: Black Laminate
+1112: Black Laminate
+1113: Black Laminate
+1114: Autotronic
+1115: Autotronic
+1116: Autotronic
+1117: Autotronic
+1118: Autotronic
 1119: Gamma Doppler
 1120: Gamma Doppler
 1121: Gamma Doppler
