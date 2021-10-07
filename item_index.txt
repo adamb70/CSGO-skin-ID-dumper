@@ -920,7 +920,18 @@
 1033: Carved Jade
 1034: Ancient Ritual
 1052: Death Strike
+1053: Meltdown
+1055: Space Race
+1056: Sputnik
+1058: POP AWP
+1059: Fizzy POP
+060: Spring Twilly
+1061: Autumn Twilly
+1063: The Coalition
+1064: Syndicate
+1065: Whiteout
 1066: Faulty Wiring
+1067: Propaganda
 1070: Green Laminate
 1071: CAUTION!
 1072: Prism Terrace
@@ -938,6 +949,11 @@
 1084: Hazard Pay
 1085: Mechanism
 1086: Oil Change
+1119: Gamma Doppler
+1120: Gamma Doppler
+1121: Gamma Doppler
+1122: Gamma Doppler
+1123: Gamma Doppler
 10006: Charred
 10007: Snakebite
 10008: Bronzed
