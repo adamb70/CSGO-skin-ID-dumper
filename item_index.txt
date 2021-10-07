@@ -919,6 +919,23 @@
 1032: Dusk Ruins
 1033: Carved Jade
 1034: Ancient Ritual
+1035: Slate
+1036: Circaetus
+1037: Food Chain
+1038: Chromatic Aberration
+1039: Clear Polymer
+1040: The Traitor
+1041: In Living Color
+1042: O.S.I.P.R.
+1043: dev_texture
+1044: Cyber Shell
+1045: Button Masher
+1046: XOXO
+1047: Junk Yard
+1048: Heavy Metal
+1049: Oscillator
+1050: Trigger Discipline
+1051: Windblown
 1052: Death Strike
 1053: Meltdown
 1055: Space Race
