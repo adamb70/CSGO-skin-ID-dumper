@@ -942,7 +942,7 @@
 1056: Sputnik
 1058: POP AWP
 1059: Fizzy POP
-060: Spring Twilly
+1060: Spring Twilly
 1061: Autumn Twilly
 1063: The Coalition
 1064: Syndicate
