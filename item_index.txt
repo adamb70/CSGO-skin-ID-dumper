@@ -888,6 +888,24 @@
 1032: Dusk Ruins
 1033: Carved Jade
 1034: Ancient Ritual
+1066: Faulty Wiring
+1070: Green Laminate
+1071: CAUTION!
+1072: Prism Terrace
+1073: Imminent Danger
+1074: Schematic
+1075: Strats
+1076: Framework
+1077: Interlock
+1078: Blue Tire
+1079: Red Tire
+1080: Infrastructure
+1081: Digital Architect
+1082: Fall Hazard
+1083: Breaker Box
+1084: Hazard Pay
+1085: Mechanism
+1086: Oil Change
 10006: Charred
 10007: Snakebite
 10008: Bronzed
