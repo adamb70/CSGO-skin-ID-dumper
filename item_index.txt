@@ -966,6 +966,23 @@
 1084: Hazard Pay
 1085: Mechanism
 1086: Oil Change
+1087: Leet Museo
+1088: Plague
+1089: BI83 Spectrum
+1090: Ocean Drive
+1091: Tread
+1092: ZX Spectron
+1093: Boost Protocol
+1094: Mount Fuji
+1095: Keeping Tabs
+1096: Guerrilla
+1097: Spider Lily
+1098: Toybox
+1099: Lumen
+1100: Snack Attack
+1101: Turbo Peek
+1102: Black Lotus
+1103: Watchdog
 1119: Gamma Doppler
 1120: Gamma Doppler
 1121: Gamma Doppler
