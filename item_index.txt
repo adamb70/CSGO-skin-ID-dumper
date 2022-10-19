@@ -481,11 +481,11 @@
 565: Black Laminate
 566: Black Laminate
 567: Black Laminate
-568: Gamma Doppler
-569: Gamma Doppler
-570: Gamma Doppler
-571: Gamma Doppler
-572: Gamma Doppler
+568: Gamma Doppler Emerald Marble
+569: Gamma Doppler Phase 1
+570: Gamma Doppler Phase 2
+571: Gamma Doppler Phase 3
+572: Gamma Doppler Phase 4
 573: Autotronic
 574: Autotronic
 575: Autotronic
