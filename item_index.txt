@@ -1020,6 +1020,23 @@
 1139: Poultrygeist
 1140: Spirit Board
 1141: Nightwish
+1142: Printstream
+1143: Ice Coaled
+1144: Chromatic Aberration
+1145: Crazy 8
+1146: Meow 36
+1147: Destroyer
+1148: Downtown
+1149: Poly Mag
+1150: Monkeyflage
+1151: Dragon Tech
+1152: Drop Me
+1153: Visions
+1154: Vent Rush
+1155: Kiss♥Love
+1156: Flora Carnivora
+1157: Roadblock
+1158: Winterized
 10006: Charred
 10007: Snakebite
 10008: Bronzed
